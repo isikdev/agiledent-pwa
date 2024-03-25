@@ -32,6 +32,12 @@
             "src": "https://isikdev.github.io/agiledent-pwa/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
+        },
+        {
+            "src": "https://isikdev.github.io/agiledent-pwa/maskable-icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
         }
     ]
 }
